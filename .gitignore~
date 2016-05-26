@@ -1,5 +1,4 @@
-bin/*
-!bin/server
+bin/
 lib/*
 include/*
 
